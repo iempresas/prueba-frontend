@@ -7,9 +7,9 @@ Utiliza la convención de nombres [SUIT](https://suitcss.github.io/) cuando escr
 ```
 
 ### Condiciones
-* Utiliza Sass para generar el CSS
+* Utiliza Sass para generar el CSS, no utilizar ningun framework CSS
 * Utiliza ES6
-* Utiliza sólo Vanilla JS, sin ningún JS framework
+* Utiliza sólo Vanilla JS, no utilizar ningun framework JS
 * Publícalo en una gh-page
 
 ### Bonus
